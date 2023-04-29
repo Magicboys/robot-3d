@@ -86,7 +86,6 @@ int main()
         }
     }
 
-    //TODO: loop through all paths and find the best 
     std::cout << "===========================================" << std::endl;
     int highestPathScore = 0;
     std::list<robotPosition> bestPath;
